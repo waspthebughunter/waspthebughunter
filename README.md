@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">22 years old Web Application Pentester/Programmer/CTF Player in Istanbul/Turkey. I enjoy learning new things every day, im a fast self-learner of required things.</h3>
+<h3 align="center">Pentester/Programmer/CTF Player in Turkey. I enjoy learning new things every day..</h3>
 
-- 🌱 I’m currently learning **Cyber Security and Programing**
 
 - 💬 Ask me about **Python, CTF's, Bash, SQL/No-SQL, Web App Security**
 
