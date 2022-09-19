@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Pentester/Programmer/CTF Player in Turkey. I enjoy learning new things every day..</h3>
+<h3 align="center">I am a Pentester/Programmer/CTF Player in Turkey. I enjoy learning new things every day..</h3>
 
 
 - 💬 Ask me about **Python, CTF's, Bash, SQL/No-SQL, Web App Security**
