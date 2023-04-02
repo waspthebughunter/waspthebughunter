@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WASP</h1>
+<h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate Penetration Tester from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waspthebughunter&label=Profile%20views&color=0e75b6&style=flat" alt="waspthebughunter" /> </p>
